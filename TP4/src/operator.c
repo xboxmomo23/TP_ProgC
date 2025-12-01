@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Operator.h"
+#include "operator.h"
 
 int somme(int num1, int num2)
 {
@@ -51,3 +51,4 @@ int negation(int num1, int num2)
     (void)num2; /* on ignore le second paramètre */
     return ~num1;
 }
+
