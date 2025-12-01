@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Operator.h"
+#include "operator.h"
 
 int main(int argc, char *argv[])
 {
@@ -50,3 +50,4 @@ int main(int argc, char *argv[])
     printf("Resultat : %d\n", resultat);
     return 0;
 }
+
