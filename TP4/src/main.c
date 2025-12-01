@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "Operator.h"
+#include "operator.h"
 #include "fichier.h"
 #include "liste.h"
 
